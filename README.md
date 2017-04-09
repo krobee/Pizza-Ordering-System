@@ -3,4 +3,4 @@ This project is for CS414 Object Oriented Design. It builds a Java-based pizza o
 ## Details
 * use Java Swing as graphic user interface
 * has different views and functionalities based on account types
-* capable of handling asynchronize problems
+* capable of handling synchronize problems
